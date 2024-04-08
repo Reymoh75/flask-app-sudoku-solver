@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#main {
+  margin: auto;
+  width: fit-content;
+  margin-top: 10px;
+}
+
+.row input {
+  width: 30px;
+  height: 30px;
+  margin: 2px 2px;
+  display: inline;
+  float: left;
+  text-align: center;
+  font-size: 20px;
+}
+
+.buttons {
+  margin-top: 20px;
+}
+
+.btn {
+  border: none;
+  height: 2rem;
+  border-radius: 10px;
+  padding: 10px;
+  margin-top: 10px;
+}
